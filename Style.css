@@ -1,8 +1,8 @@
-#header{
+.heading{
  width:100%; 
 }
 
-#header h3{
+.heading h3{
   float: left;
   display: inline;
 }
