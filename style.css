@@ -5,9 +5,11 @@
 .heading h3{
     float: left;
     display:inline;
+    margin-bottom: 25px;
 }
 
 .heading button{
     float: right;
     border: 1px solid white;
+    margin-top: 15px;
 }
