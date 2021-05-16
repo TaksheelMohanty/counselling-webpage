@@ -1,3 +1,3 @@
-function login_page(){
+function next_page(){
   window.location = "student_login.html"  
 }
